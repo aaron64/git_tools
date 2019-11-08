@@ -1,0 +1,62 @@
+{
+	"username": "aaron64",
+	"host": "github.com",
+	"projects": [
+		{
+			"name": "MidiShader",
+			"folder": "cpp"
+		},
+		{
+			"name": "parallax_webtool",
+			"folder": "web_apps"
+		},
+		{
+			"name": "pychic_type",
+			"folder": "python"
+		},
+		{
+			"name": "Run_Royale",
+			"folder": "android_apps"
+		},
+		{
+			"name": "Android_Game",
+			"folder": "android_apps"
+		},
+		{
+			"name": "Bulletin",
+			"folder": "android_apps"
+		},
+		{
+			"name": "LST",
+			"folder": "javascript"
+		},
+		{
+			"name": "MMM-DockerVisualizer",
+			"folder": "misc"
+		},
+		{
+			"name": "light_control",
+			"folder": "web_apps"
+		},
+		{
+			"name": "Godot_Test",
+			"folder": "games"
+		},
+		{
+			"name": "Bulletin-Backend",
+			"folder": "backend/bulletin"
+		},
+		{
+			"name": "Bulletin-Chat",
+			"folder": "backend/bulletin"
+		},
+		{
+			"name": "py-lights",
+			"folder": "python"
+		},
+		{
+			"name": "personal_site",
+			"folder": "websites"
+		},
+	]
+}
